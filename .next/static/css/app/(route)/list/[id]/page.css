@@ -1,0 +1,41 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./components/List/style/page.module.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************/
+.page_ListPage__CMZny h1 {
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ccc
+}
+
+.page_CardItem__5LLBh {
+    padding: 15px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+}
+
+.page_CardItem__5LLBh h2 {
+    margin-bottom: 10px;
+}
+
+.page_CardItem__5LLBh p {
+    color: #336EFD;
+}
+
+.page_CardItem__5LLBh span {
+    color: #999;
+}
+
+.page_CardContent__HxHYx {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.page_ListContent__flVBB {
+    font-size: 14px;
+    margin-top: 15px;
+    height: 300px;
+    overflow-y: auto;
+    border-bottom: 1px solid #ccc;
+}

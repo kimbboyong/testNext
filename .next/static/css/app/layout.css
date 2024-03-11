@@ -1,0 +1,133 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./style/global.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.15;
+}
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+main {
+    display: block;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 17px;
+    font-weight: 400;
+}
+
+p {
+    font-size: 14px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+input,
+textarea,
+button {
+    border: none;
+    outline: none;
+}
+
+textarea {
+    resize: none;
+}
+
+.px-15 {
+    padding: 0 15px;
+}
+
+.input-box {
+    margin-bottom: 20px;
+}
+
+.input-box input,
+.input-box textarea {
+    width: 100%;
+    display: block;
+    font-size: 18px;
+    color: #333;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    padding: 12px;
+}
+
+.input-box textarea {
+    height: 300px;
+}
+
+.submit-btn {
+    width: 100%;
+    padding: 12px;
+    border-radius: 12px;
+    background: #336EFD;
+    color: #fff;
+    cursor: pointer;
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./components/nav/style/page.module.css ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************/
+.page_header__XhzSq {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    position: relative;
+    box-shadow: 3px 0 12px rgba(0, 0, 0, 0.2);
+    margin-bottom: 50px;
+}
+
+.page_header__XhzSq a {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./components/CreateBtn/style/page.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************/
+.page_create__lqwEQ {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 70px;
+    height: 50px;
+    color: #336EFD;
+    border: 1px solid #336EFD;
+    border-radius: 12px;
+}
+
+.page_create__lqwEQ:hover {
+    background: #336EFD;
+    color: #fff;
+
+}
